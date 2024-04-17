@@ -70,4 +70,4 @@ int operador = 1;
     
 }
 
-/*Teste GitHub*/
+/*Teste GitHub, mais um novo teste para o Git/
