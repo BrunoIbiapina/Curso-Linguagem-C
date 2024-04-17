@@ -13,4 +13,3 @@ int main (){
     scanf("%s", &Sobrenome);
     printf("Seu nome completo é %s %s", Nome, Sobrenome);
 }
-/*teste 2*/
