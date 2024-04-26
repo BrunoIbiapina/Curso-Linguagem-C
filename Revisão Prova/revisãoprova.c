@@ -21,7 +21,5 @@ int main () {
         printf("O valor da Soma de B + C é: %2.f\n", SomaBC);
     }else{
         printf("O valor do Produto A é: %2.f\n ", ProdutoA);
-    }
-    
+    }    
 }
-
