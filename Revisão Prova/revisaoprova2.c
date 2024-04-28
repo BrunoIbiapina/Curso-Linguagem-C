@@ -5,7 +5,7 @@
 
 int main(){
 int valor1,valor2,valor3;
-printf("Digite 3  valores2: \n");
+printf("Digite 3  valores: \n");
 scanf("%d %d %d", &valor1,&valor2,&valor3);
 int maiorvalor = valor1;
 if(valor1>valor2){
