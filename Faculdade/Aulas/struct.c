@@ -10,11 +10,11 @@ struct cadastroProduto{
 
 };
 int main () {
-int i;
+    int i;
     struct cadastroProduto produto [2];/*Estrutura de repetição para Leitura*/
     for (i = 0; i < 2 ; i++) {
         printf("Digite o codigo do produto \n");
-        scanf("%d",  &produto[i].codigo);
+        scanf("%d", &produto[i].codigo);
 
         printf("Digite a descrição do produto \n");
         scanf("%s", &produto[i].nome);

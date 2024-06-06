@@ -21,8 +21,8 @@ for(i=0; i< 3; i++){
 
 printf("Matriz resultante: \n");
 for(i=0; i<2; i++){
-    for(j=0;j <3; j++);
-        printf("%4d" matrizA[i][j]*matrizB[i][j]);
+    for(j=0;j <3; j++)
+       printf("|%4d", matrizA[i][j] * matrizB[i][j]);
         printf("|\n");
     }
 }
